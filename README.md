@@ -21,7 +21,9 @@ Introdation to python programming
 - My first MMORPG game [monters and hero](https://github.com/rinAkhm/game)
 - I lerned patterns [game2](https://github.com/rinAkhm/game2);
 - I'm used flask, python, apo [api_taxi](https://github.com/rinAkhm/app_taxi/blob/dev/app_db.py);
-- 
+- [scan_moon](https://github.com/rinAkhm/scan_moon);
+- I'm jsonschema [validate](https://github.com/rinAkhm/valid_data);
+- python [decorator](https://github.com/rinAkhm/valid_all);
 
 Introdation to git
 - [git tasks](https://github.com/rinAkhm/study_git);
