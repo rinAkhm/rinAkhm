@@ -10,7 +10,9 @@ Hi there 👋
 ⚙️ I use daily: Python/Pytest/JS/Jest/git/Docker/Selenium
 ✍️ Contact me with telegram @rin_akhm
 
+
 My interests 👀
+current project https://github.com/rinAkhm/frontend-testing-react-project-67
 
 Application for testing
 - I am used selenium, python, webdriver - [ui-tests](https://github.com/rinAkhm/ui_testing_moodle);
