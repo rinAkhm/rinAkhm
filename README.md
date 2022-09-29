@@ -11,12 +11,13 @@ Hi there 👋
 ✍️ Contact me with telegram @rin_akhm
 
 
-My interests 👀
-current project https://github.com/rinAkhm/frontend-testing-react-project-67
+My currnet project 👀
+e2e-tests on Playwright https://github.com/rinAkhm/e2e-tests.git
 
 Application for testing
 - I am used selenium, python, webdriver - [ui-tests](https://github.com/rinAkhm/ui_testing_moodle);
 - I am used python, requset [api_test](https://github.com/rinAkhm/api_test);
+- I am used Node js, axios, cherio, nock  [page_loader](https://github.com/rinAkhm/frontend-testing-react-project-67)
 
 Introdation to python programming 
 - I'm used twillo, python [checker server](https://github.com/rinAkhm/checker-server);
